@@ -12,3 +12,8 @@ body {
   max-width: 600px;
   margin: auto;
 }
+/**-Links-**/
+.links {
+  padding: 0.5rem 1rem;
+}
+text-decoration: none;
