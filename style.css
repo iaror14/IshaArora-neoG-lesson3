@@ -13,7 +13,10 @@ body {
   margin: auto;
 }
 /**-Links-**/
-.links {
-  padding: 0.5rem 1rem;
+.links,
+.primary-links {
+  color: aliceblue;
+  text-decoration: none;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  background-color: blueviolet;
 }
-text-decoration: none;
