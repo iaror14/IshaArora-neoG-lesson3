@@ -2,3 +2,13 @@
 body {
   font-family: "Montserrat", "sans-serif";
 }
+/**Container Information**/
+.container,
+.container-fluid {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.container-center {
+  max-width: 600px;
+  margin: auto;
+}
