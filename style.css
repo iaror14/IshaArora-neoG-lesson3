@@ -30,3 +30,10 @@ body {
   display: inline;
   padding: 0rem 0.5rem;
 }
+.navigation {
+  background-color: blueviolet;
+  color: aliceblue;
+}
+.navigation .inline {
+  color: aliceblue;
+}
