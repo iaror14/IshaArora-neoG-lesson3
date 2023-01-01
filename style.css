@@ -34,6 +34,14 @@ body {
   background-color: blueviolet;
   color: aliceblue;
 }
-.navigation .inline {
+.navigation .link {
   color: aliceblue;
+  text-decoration: none;
+}
+.navigation .inline {
+  list-style: none;
+  display: inline;
+}
+.navigation .unordered {
+  text-align: right;
 }
