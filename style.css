@@ -16,7 +16,17 @@ body {
 .links,
 .primary-links {
   color: aliceblue;
+  border: 1px solid blueviolet;
+  border-radius: 0.5rem;
   text-decoration: none;
   padding: 0.5rem 1rem 0.5rem 1rem;
   background-color: blueviolet;
+}
+/**--Lists--**/
+.non-bullet {
+  list-style: none;
+}
+.list-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
 }
