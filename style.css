@@ -40,7 +40,10 @@ hr {
 }
 .list-inline {
   display: inline;
-  padding: 0rem 0.5rem;
+  padding-right: 1rem;
+}
+.li-format {
+  padding-bottom: 0.5rem;
 }
 .navigation {
   background-color: #d97706;
