@@ -31,6 +31,9 @@ body {
   text-decoration: none;
   padding: 0.5rem 1rem 0.5rem 1rem;
 }
+hr {
+  margin-top: 2rem;
+}
 /**--Lists--**/
 .non-bullet {
   list-style: none;
