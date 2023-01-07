@@ -124,3 +124,7 @@ h1 {
   text-align: center;
   font-size: xx-large;
 }
+.blog-one {
+  padding: 2rem;
+  margin: 2rem;
+}
