@@ -70,6 +70,7 @@ hr {
   text-decoration: none;
   color: aliceblue;
   font-size: x-large;
+  font-weight: bold;
 }
 .navigation .list-inline {
   list-style: none;
