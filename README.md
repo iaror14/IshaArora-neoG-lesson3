@@ -1,4 +1,4 @@
-Mark4 - Portfolio Website - Isha Arora
+# Mark4 - Portfolio Website - Isha Arora
 
 ----------This repository will contain the files for my portfolio submission for level One NeoG Camp for Web Developers.------------
 
@@ -11,3 +11,7 @@ Projects-
 3. Mark5 - Blogs
 4. Mark6 - Minions Speak
 5. Mark7 - Fun Translation
+6. Mark8 - Know Your Emoji
+7. Mark9 - Recommendation App
+
+Stay Tuned for more updates on this website!
