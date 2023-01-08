@@ -133,3 +133,15 @@ h1 {
   text-align: center;
   padding: 1rem;
 }
+.blog-header-format {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #334155;
+}
+.container-center-blog {
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+  padding-top: 2rem;
+}
